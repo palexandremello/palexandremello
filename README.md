@@ -1,3 +1,15 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=palexandremello&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palexandremello&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+## Hi, I'm Paulo Alexandre a Software Developer.
+
+I'm studying Design Pattern specifically clean architecture and I'm interessing into too:
+- Mobile Developing with Flutter (But I want to learn native mobile develop with Swift)
+- Machine Learning
+- Internet of Things (IOT)
+
+
+My  knowledges are related to:
+- Python, pytest, unittest
+- Javascript/Typescript, Nodejs, jest
+- data analysis 
+- Weather (yeah)
