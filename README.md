@@ -3,7 +3,7 @@
 ## Hi, I'm Paulo Alexandre
 
 I'm studying Design Pattern specifically clean architecture and I'm interessing into too:
-- Mobile Developing with Flutter (But I want to learn native mobile develop with Swift)
+- Mobile Development with Flutter (But I want to learn native mobile develop with Swift)
 - Machine Learning
 - Internet of Things (IOT)
 
