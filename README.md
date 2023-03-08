@@ -6,7 +6,6 @@ I'm studying Design Pattern specifically clean architecture and:
 - Data Engineer
 - Machine Learning
 - Internet of Things (IOT)
-- Go
 - Parallel and Concurrent programming
 
 
