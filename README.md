@@ -2,7 +2,7 @@
 
 ## Hi, I'm Paulo Alexandre
 
-I'm studying Design Pattern specifically clean architecture and I'm interessing into too:
+I'm studying Design Pattern specifically clean architecture and:
 - Data Engineer
 - Machine Learning
 - Internet of Things (IOT)
