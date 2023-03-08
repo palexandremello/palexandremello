@@ -6,10 +6,12 @@ I'm studying Design Pattern specifically clean architecture and I'm interessing 
 - Data Engineer
 - Machine Learning
 - Internet of Things (IOT)
+- Go
+- Parallel and Concurrent programming
 
 
 My  knowledges are related to:
-- Python, little bit of pytest and Test-driven Development (TDD)
-- Javascript/Typescript, Nodejs, jest
-- data analysis 
-- Weather (yeah)
+- Python (focusing efforts with pytest, Test-driven Development (TDD) and design paterns)
+- a little bit of Typescript, Nodejs, jest
+- data analysis
+- Weather (not so much)
