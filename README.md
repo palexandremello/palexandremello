@@ -15,4 +15,4 @@ My  knowledges are related to:
 - data analysis
 - Weather (not so much)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palexandremello&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palexandremello&count_private=true)
