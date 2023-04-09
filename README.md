@@ -14,5 +14,3 @@ My  knowledges are related to:
 - a little bit of Typescript, Nodejs, jest
 - data analysis
 - Weather (not so much)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palexandremello&count_private=true)
