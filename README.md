@@ -7,6 +7,7 @@ I'm studying Design Pattern specifically clean architecture and:
 - Machine Learning
 - Internet of Things (IOT)
 - Parallel and Concurrent programming
+- Golang
 
 
 My  knowledges are related to:
