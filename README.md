@@ -2,7 +2,7 @@
 
 ## Hi, I'm Paulo Alexandre
 
-I'm studying Design Pattern specifically clean architecture and:
+I'm studying Assembly MIPS, C and C++:
 - Data Engineer
 - Machine Learning
 - Golang
