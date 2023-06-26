@@ -5,9 +5,10 @@
 I'm studying Design Pattern specifically clean architecture and:
 - Data Engineer
 - Machine Learning
-- Internet of Things (IOT)
-- Parallel and Concurrent programming
 - Golang
+- Homebrew at retro consoles
+- Aseembly MIPS
+- C/C++
 
 
 My  knowledges are related to:
