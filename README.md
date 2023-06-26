@@ -7,7 +7,7 @@ I'm studying Assembly MIPS, C and C++:
 - Machine Learning
 - Golang
 - Homebrew at retro consoles
-- Aseembly MIPS
+- Asembly MIPS
 - C/C++
 
 
