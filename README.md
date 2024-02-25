@@ -6,8 +6,8 @@ I'm studying:
 - Data Engineer
 - Machine Learning
 - Homebrew at retro consoles
-- Reversing Engineer
-- Asembly 
+- Reverse Engineer
+- Assembly (Focusing on 6502 and 6800) 
 - C/C++
 
 
