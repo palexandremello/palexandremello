@@ -5,7 +5,6 @@
 I'm studying:
 - Data Engineer
 - Machine Learning
-- Golang
 - Homebrew at retro consoles
 - Reversing Engineer
 - Asembly 
